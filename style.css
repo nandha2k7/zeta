@@ -60,13 +60,13 @@ body{
     color: black;
 }
 .invite{
-    background-color: #d90368;
+    background-color: #36393f;
     height: 200px;
     
 }
 .btn-danger{
-    background-color: #541388 !important;
-    border-color: #541388 !important; 
+    background-color: ##5865f2 !important;
+    border-color: ##5865f2 !important; 
     color: #fff1e6;
     justify-content: center;
     margin-left: 42%;
